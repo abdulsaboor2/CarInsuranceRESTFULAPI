@@ -1,0 +1,22 @@
+.form-control {
+    padding: 25px;
+}
+
+.bg-login {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.text-login-btn {
+    color: #007bff;
+}
+
+.form-check-input[type="checkbox"]:checked {
+    background-color: #007bff !important;
+    border-color: #007bff !important;   
+} 
+
+.form-check-input[type="checkbox"]:disabled {
+    background-color: #fff !important;
+    accent-color: #ffffff;
+}
